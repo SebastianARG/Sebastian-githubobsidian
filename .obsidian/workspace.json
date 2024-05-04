@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "6e41db700f61312b",
+    "type": "split",
+    "children": [
+      {
+        "id": "218791c9b1a319df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178cc62921407896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion/Main/Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "019e8cd674404aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion/Aeropuerto/Aeropuerto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d58a6763f70d6113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion/Conexión BD/Empleados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b7df319186df7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestion/Main/Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33d362075534d28a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb69c9cdceb38d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "57bfebf326ae8a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57998a3e1ae11869",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fe0dcc4b2410261",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a33ebf0572575be2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "737f1c2d8548d38f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1a30f796ebd87f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d55299b35bc4fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23bc56b0cce7b6fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45b9622c6d4edf77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65102fa8673434f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "33d362075534d28a",
+  "lastOpenFiles": [
+    "Main.md",
+    "Gestion/Main/Main.md",
+    "Gestion/Aeropuerto/Aeropuerto.md",
+    "Gestion/Conexión BD/Pasajeros.md",
+    "Gestion/Conexión BD/Empleados.md",
+    "Gestion/Conexión BD",
+    "Gestion/Aeropuerto",
+    "Gestion/Main",
+    "Gestion/Conexión BD/Aviones.md",
+    "Gestion",
+    "aerolineas.md",
+    "Aeropuerto.md",
+    "Welcome.md"
+  ]
+}
